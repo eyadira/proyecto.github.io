@@ -1,0 +1,230 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100% ;
+  height: 100% ;
+  background: url(fondo2.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+.btn-neon{
+	position:relative;
+	display: inline-block;
+	padding: 15px 30px;
+	color: #fff;
+	letter-spacing: 4px;
+	font-size: 24px;
+	text-decoration:none;
+	overflow: hidden;
+	transition: 0.2s;
+}
+
+.btn-neon:hover{
+	background: #a945c7;
+	box-shadow:0 0 10px #a945c7, 0 0 40px
+	#a945c7, 0 0 80px #a945c7;
+	transition-delay: 0s;
+	position: center;
+}
+
+.btn-neon span{
+	position: absolute;
+	display: block;
+}
+
+#span1{
+	top: 0;
+	left: -100%>;
+	width: 100%;
+	height: 2px;
+	background: linear-
+	gradient(90deg, transparent, #a945c7);
+}
+
+.btn-neon: hover #span1{
+	left:100%;
+	transition: 1s;
+}
+
+#span2{
+	top: 0;
+	left: -100%>;
+	width: 100%;
+	height: 2px;
+	background: linear-
+	gradient(90deg, transparent, #a945c7);
+}
+.btn-neon: hover #span2{
+	left:100%;
+	transition: 1s;
+}
+
+#span3{
+	top: -100%;
+	right: 0%;
+	width: 2px;
+	height: 100%;
+	background: linear-
+	gradient(180deg, transparent, #a945c7);
+}
+
+.btn-neon: hover #span3{
+	right:100%
+	transition: 1s;
+	transition-delay:0.5s;
+}
+#span4{
+	bottom: -100%;
+	left: 0>;
+	width: 2px;
+	height: 100%;
+	background: linear-
+	gradient(360deg, transparent, #a945c7);
+}
+.btn-neon: hover #span2{
+	bottom: 100%;
+	transition: 1s;
+	transition-delay: 0.75s;
+}
+
+
+.btn-actividad1{
+	position:relative;
+	display: inline-block;
+	padding: 15px 30px;
+	color: #fff;
+	letter-spacing: 4px;
+	font-size: 24px;
+	text-decoration:none;
+	overflow: hidden;
+	transition: 0.2s;
+}
+
+.btn-actividad1{
+	background: #a945c7;
+	box-shadow:0 0 10px #a945c7, 0 0 40px
+	#a945c7, 0 0 80px #a945c7;
+	transition-delay: 0s;
+	position: center;
+}
+
+.btn-actividad1 span{
+	position: absolute;
+	display: block;
+}
+
+#span1{
+	top: 0;
+	left: -100%>;
+	width: 100%;
+	height: 2px;
+	background: linear-
+	gradient(90deg, transparent, #a945c7);
+}
+
+.btn-actividad1 hover #span1{
+	left:100%;
+	transition: 1s;
+}
+
+#span2{
+	top: 0;
+	left: -100%>;
+	width: 100%;
+	height: 2px;
+	background: linear-
+	gradient(90deg, transparent, #a945c7);
+}
+.btn-actividad1: hover #span2{
+	left:100%;
+	transition: 1s;
+}
+
+#span3{
+	top: -100%;
+	right: 0%;
+	width: 2px;
+	height: 100%;
+	background: linear-
+	gradient(180deg, transparent, #a945c7);
+}
+
+.btn-actividad1: hover #span3{
+	right:100%
+	transition: 1s;
+	transition-delay:0.5s;
+}
+#span4{
+	bottom: -100%;
+	left: 0>;
+	width: 2px;
+	height: 100%;
+	background: linear-
+	gradient(360deg, transparent, #a945c7);
+}
+.btn-actividad1: hover #span2{
+	bottom: 100%;
+	transition: 1s;
+	transition-delay: 0.75s;
+}
+	
+
+
+
+h1
+{
+	font-family: fantasy;
+	margin-top:150px;
+	font-size:60px;
+	color:#231a24;
+	background:#CCC;
+	-webkit-opacity:0.8;
+	-moz-opacity:0.8;
+	-o-opacity:0.6;
+	-ms-opacity:0.8;
+	opacity:0.8;
+}
+
+h2
+{
+	font-family: times new roman;
+	margin-top:18px;
+	font-size:30px;
+	color:white;
+	color:WHITE;
+	background:#000;
+	-webkit-opacity:0.60;
+	-moz-opacity:0.60;
+	-o-opacity:0.60;
+	-ms-opacity:0.80;
+	opacity:0.80;
+}
+
+boton1{
+  border-radius: 5px;
+  padding: 10px 7px;
+  text-decoration: none;
+  color: #fff;
+  background-color: #333;
+  margin: 5px;
+}
+
+.image2{
+	margin: 0;
+  padding: 0;
+  width: 100% ;
+  height: 100% ;
+  background: url(codigo.jpg);
+  background-size: cover;
+  background-position: center;
+  font-family: sans-serif;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
